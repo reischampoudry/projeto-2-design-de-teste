@@ -1,4 +1,4 @@
-# Design de teste - Tarefa 2
+# Projeto 2 - Teste de API com Postman
 
 Projeto do 2º sprint do curso de QA: design de testes para o formulário **Adicionar carteira de motorista** do Urban Routes.
 
